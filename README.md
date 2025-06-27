@@ -1,4 +1,4 @@
-Task 4: Setup and Use a Firewall on Linux
+* Setup and Use a Firewall on Linux
 Objective
 Configure and test basic firewall rules on a Linux system using UFW (Uncomplicated Firewall) and optionally GUFW
 (Graphical UFW). Demonstrate how to allow and block traffic using ports and IPs.
